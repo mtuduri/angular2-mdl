@@ -1,0 +1,1 @@
+{"version":3,"file":"noop.js","sourceRoot":"","sources":["../../../src/lib/components/common/noop.ts"],"names":[],"mappings":"AAAA,0BAA0B;AAC1B,MAAM,CAAC,IAAM,IAAI,GAAG,UAAC,CAAO,IAAM,CAAC,CAAC","sourcesContent":["/* istanbul ignore next */\nexport const noop = (_?: any) => {};"]}
